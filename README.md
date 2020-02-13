@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Users Table was created with React, Redux and Boostrap. There are a users form (validation on client, users data is kept in Redux and Local Storage) and users table with sort, where we can see data from form.
+
 ## Available Scripts
 
 In the project directory, you can run:
